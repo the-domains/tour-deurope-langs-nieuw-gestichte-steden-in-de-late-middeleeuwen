@@ -10,6 +10,11 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+opengraph:
+  appId: '264326337293987'
+  type: '264326337293987'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/27cc7433-958e-4ae8-9242-dc4b7d23310a.jpg
 layout_spectrum: 0.3993369033560157
 author:
   name: Jan Brouwer
